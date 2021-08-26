@@ -18,6 +18,8 @@ public class HelloWorld {
 
 		System.out.println("local 에서 추가");
 		System.out.println("remote 에서 수정");
+		
+		System.out.println("집에서 작업");
 
 	}
 
