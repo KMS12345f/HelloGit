@@ -11,6 +11,8 @@ public class HelloWorld {
 
 		System.out.println("master 작업 중");
 		System.out.println("module_B start");
+		
+		System.out.println("충돌 해결~~ ㅎㅎㅎ");
 	}
 
 	private static void test() {
